@@ -1,0 +1,115 @@
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => en
+)
+
+Array
+(
+    [lang] => es
+)
+
+Array
+(
+    [lang] => es
+)
+
